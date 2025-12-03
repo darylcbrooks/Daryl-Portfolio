@@ -32,11 +32,11 @@
 
 <h2>AI Certifications</h2>
 
-### [*AWS Certified AI Practitioner*](https://www.credly.com/badges/e803f313-3ad0-49bf-8c77-82170a511be5/)</br>• [*Microsoft Certified: Azure AI Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/9e2930d5884d7d57)</br>• [*AKYLADE AI Security Foundation (A/AISF)*](https://www.credential.net/db77c4e8-ce68-4da1-a38b-ce0561f26677#acc.WQYmdEl9)</br>• [*Google AI Essentials*](https://www.credly.com/badges/74b6f930-060c-49f4-b83d-41aaa0783ec3)</br>
+### • [*AWS Certified AI Practitioner*](https://www.credly.com/badges/e803f313-3ad0-49bf-8c77-82170a511be5/)</br>• [*Microsoft Certified: Azure AI Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/9e2930d5884d7d57)</br>• [*AKYLADE AI Security Foundation (A/AISF)*](https://www.credential.net/db77c4e8-ce68-4da1-a38b-ce0561f26677#acc.WQYmdEl9)</br>• [*Google AI Essentials*](https://www.credly.com/badges/74b6f930-060c-49f4-b83d-41aaa0783ec3)</br>
 
 <h2>Project Management Certifications</h2>
 
-### [*Project Management Professional (PMP)*](https://www.credly.com/badges/d79ce8a2-8314-4e4e-9312-067d5510bcb0/)</br>• [*Lean Six Sigma Green Belt*](https://learn.educate360.com/c/vTWFUrAWSOaN6Xh_--5Z6A)</br>• [*Certified SAFe® 6 Release Train Engineer*](https://www.credly.com/badges/574e0245-98ff-4db6-9daf-2ab9d3b9f95d/)</br>• [*Certified Scrum Master (CSM)*](https://bcert.me/bc/html/show-badge.html?b=ucmiqzjc)</br>• [*Professional Scrum Master™ I (PSM I)*](https://www.credly.com/badges/d2a31be3-6337-4b2d-841c-db5ec639dad3/)</br>• [*CompTIA Project+*](https://www.credly.com/badges/4c752808-509c-4023-9f7d-c583b04711a6/)</br>• [*Agile Scrum Foundation*]</br>
+### • [*Project Management Professional (PMP)*](https://www.credly.com/badges/d79ce8a2-8314-4e4e-9312-067d5510bcb0/)</br>• [*Lean Six Sigma Green Belt*](https://learn.educate360.com/c/vTWFUrAWSOaN6Xh_--5Z6A)</br>• [*Certified SAFe® 6 Release Train Engineer*](https://www.credly.com/badges/574e0245-98ff-4db6-9daf-2ab9d3b9f95d/)</br>• [*Certified Scrum Master (CSM)*](https://bcert.me/bc/html/show-badge.html?b=ucmiqzjc)</br>• [*Professional Scrum Master™ I (PSM I)*](https://www.credly.com/badges/d2a31be3-6337-4b2d-841c-db5ec639dad3/)</br>• [*CompTIA Project+*](https://www.credly.com/badges/4c752808-509c-4023-9f7d-c583b04711a6/)</br>• [*Agile Scrum Foundation*]</br>
 
 <h2>Home Lab Projects Master List</h2>
 

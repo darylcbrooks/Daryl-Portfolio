@@ -6,7 +6,7 @@
 
 ### *20+ Years of Federal Civilian Service (United State Park Police/Federal Trade Commission/US Citizenship & Immigration Services/Social Security Administration/Cybersecurity Infrastructure Security Agency)*
 
-<h2>*Education*</h2>
+<h2>Education</h2>
 
 - *Masters of Science, Information Security Management (Bowie State University)*
 - *Bachelors of Science, Management Information Systems (Delaware State University)*

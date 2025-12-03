@@ -28,7 +28,7 @@
 
 <h2>Cloud Certifications</h2>
 
-### [*AWS Certified Cloud Practitioner*](https://www.credly.com/badges/7014ffd5-bc25-452d-92a1-2a7fbc0c5393/)</br>• [*Microsoft Certified: Azure Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/dbc211d2c7e2e64)</br>• [*Microsoft Certified: Azure Data Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/5e3bb4fd1374a2e8)</br>• [*CompTIA Cloud Essentials+*](https://www.credly.com/badges/08e2c878-a453-44f4-8212-27d559dfd767/)</br>
+### • [*AWS Certified Cloud Practitioner*](https://www.credly.com/badges/7014ffd5-bc25-452d-92a1-2a7fbc0c5393/)</br>• [*Microsoft Certified: Azure Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/dbc211d2c7e2e64)</br>• [*Microsoft Certified: Azure Data Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/5e3bb4fd1374a2e8)</br>• [*CompTIA Cloud Essentials+*](https://www.credly.com/badges/08e2c878-a453-44f4-8212-27d559dfd767/)</br>
 
 <h2>AI Certifications</h2>
 
